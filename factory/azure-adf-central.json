@@ -1,0 +1,9 @@
+{
+	"name": "azure-adf-central",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7cae607-8dc1-4ec9-b9b7-b83d46c7a631",
+		"tenantId": "c1ffb831-da26-47c1-8dc8-2165b7fbdd63"
+	}
+}
